@@ -1,0 +1,2 @@
+name = 'Nattaprom'
+lastname = 'Takaew'
